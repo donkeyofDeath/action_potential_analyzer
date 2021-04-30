@@ -5,7 +5,7 @@ import pandas as pd
 # import stfio
 
 
-class DataAnalyzer:
+class ActionPotentialAnalyzer:
     """
 
     """
